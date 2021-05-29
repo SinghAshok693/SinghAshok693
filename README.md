@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SinghAshok693
+- 👀 I’m interested in Tech and Code
+- 🌱 I’m currently learning Machine Learning with Data Science
+- 💞️ I’m looking to collaborate on ML projects
+- 📫 Reach me through my mail-singhashok0907@gmail.com
